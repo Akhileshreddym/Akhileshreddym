@@ -214,3 +214,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://akhilesh-stats-frontend.vercel.app/api/top-langs/?username=Akhileshreddym&layout=compact&hide_border=true&bg_color=00000000&title_color=d4d4d4&text_color=a0a0a0&langs_count=6&disable_animations=true&exclude_repo=AkhileshStats" />
   <img src="https://akhilesh-stats-frontend.vercel.app/api/top-langs/?username=Akhileshreddym&layout=compact&hide_border=true&bg_color=00000000&title_color=0d0d0d&text_color=4a4a4a&langs_count=6&disable_animations=true&exclude_repo=AkhileshStats" />
 </picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akhileshreddym/Akhileshreddym/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Akhileshreddym/Akhileshreddym/output/snake.svg" />
+</picture>
