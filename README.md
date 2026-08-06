@@ -215,7 +215,7 @@
   <img src="https://akhilesh-stats-frontend.vercel.app/api/top-langs/?username=Akhileshreddym&layout=compact&hide_border=true&bg_color=00000000&title_color=0d0d0d&text_color=4a4a4a&langs_count=6&disable_animations=true&exclude_repo=AkhileshStats" />
 </picture>
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akhileshreddym/Akhileshreddym/output/snake-dark.svg" />
