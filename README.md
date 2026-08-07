@@ -2,7 +2,7 @@
 
 <h1><samp>A&nbsp;K&nbsp;H&nbsp;I&nbsp;L&nbsp;E&nbsp;S&nbsp;H&nbsp;&nbsp;&nbsp;R&nbsp;E&nbsp;D&nbsp;D&nbsp;Y&nbsp;&nbsp;&nbsp;M&nbsp;A&nbsp;L&nbsp;L&nbsp;U</samp></h1>
 
-<sub><samp>builder &middot; CS @ Georgia Tech &middot; Intelligence &amp; Internetworks</samp></sub>
+<sub><samp>Builder &middot; CS @ Georgia Tech &middot; Intelligence &amp; Internetworks</samp></sub>
 
 </div>
 
@@ -35,7 +35,7 @@
     <td valign="middle">
       <a href="https://github.com/Akhileshreddym/Apex"><b><samp>Apex</samp></b></a>
       <br>
-      <sub><samp>f1 race strategy simulator &middot; ridge + xgboost + monte carlo &middot; 0.35s cv mae, 0.996 r&sup2;.</samp></sub>
+      <sub><samp>F1 race strategy simulator &middot; ridge + xgboost + monte carlo &middot; 0.35s cv mae, 0.996 r&sup2;.</samp></sub>
     </td>
   </tr>
   <tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
