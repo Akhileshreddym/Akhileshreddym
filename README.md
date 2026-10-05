@@ -13,10 +13,10 @@
 <br>
 
 <samp>
-<b>01 &nbsp; Now</b>
+<b>01 &nbsp; Latest</b>
 </samp>
 
-> **Tarmac** — an iOS app that turns real trip data into itineraries you can actually trust. Co-building. Swift/SwiftUI. Shipping soon.
+> **Paradise** &middot; a touch-only navigation wearable for blind and DeafBlind users. Joy-Cons on the wrists, on-device vision, no sound in or out. 3rd best overall at ShellHacks.
 
 <br>
 
@@ -25,6 +25,20 @@
 </samp>
 
 <table>
+  <tr>
+    <td width="60" align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nintendoswitch/ffffff" />
+        <img src="https://cdn.simpleicons.org/nintendoswitch/000000" width="32" height="32" alt="paradise" />
+      </picture>
+    </td>
+    <td valign="middle">
+      <a href="https://github.com/Akhileshreddym/Paradise"><b><samp>Paradise</samp></b></a>
+      <br>
+      <sub><samp>touch-only navigation wearable for blind and deafblind users, steered by joy-con haptics &middot; 3rd best overall @ shellhacks.</samp></sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><sub>&nbsp;</sub></td></tr>
   <tr>
     <td width="60" align="center" valign="middle">
       <picture>
@@ -75,7 +89,7 @@
       </picture>
     </td>
     <td valign="middle">
-      <b><samp>Tarmac</samp></b> <sub><samp></samp></sub>
+      <b><samp>Tarmac</samp></b>
       <br>
       <sub><samp>ios travel app that plans real, feasible trip itineraries from live flight data &middot; co-founder, swift/swiftui.</samp></sub>
     </td>
@@ -213,6 +227,7 @@
 </picture>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://akhilesh-stats-frontend.vercel.app/api/top-langs/?username=Akhileshreddym&layout=compact&hide_border=true&bg_color=00000000&title_color=d4d4d4&text_color=a0a0a0&langs_count=6&disable_animations=true&exclude_repo=AkhileshStats&count_private=true" />
 <img src="https://akhilesh-stats-frontend.vercel.app/api/top-langs/?username=Akhileshreddym&layout=compact&hide_border=true&bg_color=00000000&title_color=0d0d0d&text_color=4a4a4a&langs_count=6&disable_animations=true&exclude_repo=AkhileshStats&count_private=true" />
+</picture>
 
 <br>
 
