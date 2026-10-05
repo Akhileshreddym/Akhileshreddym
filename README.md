@@ -26,10 +26,10 @@
 
 <table>
   <tr>
-    <td width="60" align="center" valign="middle">
+        <td width="60" align="center" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nintendoswitch/ffffff" />
-        <img src="https://cdn.simpleicons.org/nintendoswitch/000000" width="32" height="32" alt="paradise" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:vibrate.svg?color=%23ffffff" />
+        <img src="https://api.iconify.design/mdi:vibrate.svg?color=%23000000" width="32" height="32" alt="paradise" />
       </picture>
     </td>
     <td valign="middle">
