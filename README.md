@@ -28,8 +28,8 @@
   <tr>
         <td width="60" align="center" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:vibrate.svg?color=%23ffffff" />
-        <img src="https://api.iconify.design/mdi:vibrate.svg?color=%23000000" width="32" height="32" alt="paradise" />
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/paradise-dark.svg" />
+        <img src="./assets/paradise-light.svg" width="32" height="32" alt="paradise" />
       </picture>
     </td>
     <td valign="middle">
@@ -180,8 +180,8 @@
     <td align="center" width="80">
       <a href="mailto:akhilesh.rdd@icloud.com" title="akhilesh.rdd@icloud.com">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:email-outline.svg?color=%23ffffff" />
-          <img src="https://api.iconify.design/mdi:email-outline.svg?color=%23000000" width="28" height="28" alt="email" />
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/email-dark.svg" />
+          <img src="./assets/email-light.svg" width="28" height="28" alt="email" />
         </picture>
       </a>
       <br><sub><samp>Email</samp></sub>
