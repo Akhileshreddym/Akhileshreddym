@@ -2,7 +2,7 @@
 
 <h1><samp>A&nbsp;K&nbsp;H&nbsp;I&nbsp;L&nbsp;E&nbsp;S&nbsp;H&nbsp;&nbsp;&nbsp;R&nbsp;E&nbsp;D&nbsp;D&nbsp;Y&nbsp;&nbsp;&nbsp;M&nbsp;A&nbsp;L&nbsp;L&nbsp;U</samp></h1>
 
-<sub><samp>Builder &middot; CS @ Georgia Tech &middot; Intelligence &amp; Internetworks</samp></sub>
+<sub><samp>Builder &middot; CS @ Georgia Tech &middot; Intelligence &amp; Internetworks &middot; <a href="https://akhileshrm.dev/">akhileshrm.dev</a></samp></sub>
 
 </div>
 
@@ -177,6 +177,15 @@
 
 <table>
   <tr>
+    <td align="center" width="80">
+      <a href="https://akhileshrm.dev/" title="akhileshrm.dev">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="./assets/website-dark.svg" />
+          <img src="./assets/website-light.svg" width="28" height="28" alt="website" />
+        </picture>
+      </a>
+      <br><sub><samp>Website</samp></sub>
+    </td>
     <td align="center" width="80">
       <a href="mailto:akhilesh.rdd@icloud.com" title="akhilesh.rdd@icloud.com">
         <picture>
